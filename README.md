@@ -22,12 +22,6 @@ Welcome to the GitHub repository for Fiq-mart, an E-Commerce Website project bui
 - **Algolia Instant Search**: A powerful search solution for delivering instant and relevant search results.
 - **Bootstrap**: A widely used CSS library for creating responsive and visually appealing web pages.
 
-## Screenshots/GIFs
-
-Here are some screenshots and GIFs of the Fiq-mart E-Commerce Website:
-
-![Demo](/screenshots//ezgif-4-eaf3777a33.gif)
-
 _Navigating through the website._
 
 <!-- ![Home Page](/screenshots/screencapture-mshop-seven-vercel-app-2023-06-19-06_07_02.png)
@@ -53,13 +47,13 @@ _Stripe Checkout Page._ -->
 
 ## Live Demo
 
-Check out the live demo of Fiq-mart at: [Fiq-mart Live Demo](https://mshop-seven.vercel.app/signin-signup)
+Check out the live demo of Fiq-mart at: [Fiq-mart Live Demo](https://www.fiq-mart.fiqros.com)
 
 ## Getting Started
 
 To get started with Fiq-mart, follow the steps below:
 
-1. Clone the repository: `git clone https://github.com/your-username/Fiq-mart.git`
+1. Clone the repository:
 2. Install dependencies: `npm install`
 3. Set up the environment variables:
 
@@ -73,7 +67,3 @@ To get started with Fiq-mart, follow the steps below:
 
 4. Run the development server: `npm run dev`
 5. Open your browser and navigate to `http://localhost:3000` to access the website.
-
-## License
-
-Fiq-mart is licensed under the [MIT License](LICENSE)
