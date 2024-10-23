@@ -74,6 +74,3 @@ To get started with Fiq-mart, follow the steps below:
 4. Run the development server: `npm run dev`
 5. Open your browser and navigate to `http://localhost:3000` to access the website.
 
-## License
-
-Fiq-mart is licensed under the [MIT License](LICENSE)
